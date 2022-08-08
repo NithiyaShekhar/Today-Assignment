@@ -1,0 +1,46 @@
+.services {
+    margin-bottom: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.services .slide {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.services .carousel-inner .carousel-item {
+    width: 100%;
+    height: 100%
+}
+
+.services .carousel-inner img {
+    height: 100%;
+    width: 100%;
+}
+
+.services .carousel-control-next, .services .carousel-control-prev {
+    width: 60px;
+    height: 60px;
+    background: #bd8cbf;
+    border-radius: 50%;
+}
+
+.services .carousel-control-next i, .services .carousel-control-prev i {
+    color: #000
+}
+
+.services .carousel-control-next {
+    right: 0;
+    top: 80%;
+    right: 40%;
+    background-color: #FFF;
+}
+
+.services .carousel-control-prev {
+    top: 80%;
+    left: 40%;
+}
+
+.services i {
+    color: #bd8cbf;
+}
